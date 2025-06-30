@@ -1,0 +1,4 @@
+Compile All Csv Files Of
+\\192.168.2.19\general\INSPECTION-MACHINE\FC1\FC1 Data
+And
+\\192.168.2.19\general\INSPECTION-MACHINE\FC1
